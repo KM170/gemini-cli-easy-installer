@@ -1,12 +1,12 @@
 # Gemini CLI 簡単セットアップツール
 
-Windows向けのGemini CLI簡単インストーラーです。数クリックで、必要な設定を自動で行います。
+Windows向けのGemini CLI簡単インストーラーです。必要な設定を自動で行います。
 
 ## 🚀 ダウンロード
 
 **最新版は、右側の [Releases] セクションからダウンロードしてください。**
 
-**[→ v1.0 ダウンロードページへ移動](releases/tag/v1.0)**
+**[→ 最新版のダウンロードページへ移動](https://github.com/KM170/gemini-cli-easy-installer/releases)**
 
 ---
 
@@ -23,7 +23,7 @@ Windows向けのGemini CLI簡単インストーラーです。数クリックで
 
 ## 使い方
 
-1.  **[v1.0 ダウンロードページ](releases/tag/v1.0)** から **`.zip`** ファイルをダウンロードします。
+1.  **[リリースページ](https://github.com/KM170/gemini-cli-easy-installer/releases)** から **`.zip`** ファイルをダウンロードします。
 2.  ダウンロードしたZIPファイルを右クリックし、「**すべて展開**」で解凍してください。
 3.  出てきた`.bat`ファイルを**右クリック**し、「**管理者として実行**」を選択します。
 
